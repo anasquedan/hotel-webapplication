@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "city": "Amman",
+    "fromDate": "1992-10-10",
+    "toDate":"2019-03-15",
+    "hotel": "Le Maredian",
+    "numberOfAdults": 3,
+    "hotelRate": 1,
+    "hotelFare": 2.15,
+    "roomAmenities":"A,B,C,D"
+  },
+  {
+    "id": 2,
+    "city": "UAE",
+    "fromDate": "1992-10-10",
+    "toDate": "2019-03-15",
+    "hotel": "Radisson Sass",
+    "numberOfAdults": 4,
+    "hotelRate": 12,
+    "hotelFare": 2.35,
+    "roomAmenities":"A,B,C,D,E"
+  }
+]

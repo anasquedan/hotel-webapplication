@@ -1,0 +1,28 @@
+[
+  {
+    "id": 4,
+    "city": "Lebanon",
+    "fromDate": "1992-10-10",
+    "toDate": "2019-03-15",
+    "hotelName": "Radisson Sass",
+    "rate": "**",
+    "price": 200,
+    "discount": 20,
+    "amenities": [
+      "hey",
+      "fly"
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Egypt",
+    "fromDate": "1992-10-10",
+    "toDate":"2019-03-15",
+    "hotelName": "Radisson Sass",
+    "rate": "****",
+    "price": 900,
+    "discount": null,
+    "amenities": []
+  }
+]
+]

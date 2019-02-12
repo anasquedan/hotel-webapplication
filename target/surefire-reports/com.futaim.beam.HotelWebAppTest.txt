@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.futaim.beam.HotelWebAppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.096 s <<< FAILURE! - in com.futaim.beam.HotelWebAppTest
+givenStudent_whenSave_thenGetOk(com.futaim.beam.HotelWebAppTest)  Time elapsed: 0.942 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.futaim.beam.HotelWebAppTest.givenStudent_whenSave_thenGetOk(HotelWebAppTest.java:68)
+
