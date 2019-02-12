@@ -1,13 +1,13 @@
 package com.futaim.beam.dao.impl;
 
-import com.futaim.beam.dao.HotelDao;
-import com.futaim.beam.domain.CrazyHotel;
-import com.futaim.beam.utils.DateUtils;
-import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import org.springframework.stereotype.Service;
+
+import com.futaim.beam.dao.HotelDao;
+import com.futaim.beam.domain.CrazyHotel;
 
 @Service
 public class CrazyHotelDao implements HotelDao<CrazyHotel, Integer> {

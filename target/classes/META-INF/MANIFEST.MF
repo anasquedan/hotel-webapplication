@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hotel-webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Anas Quedan
+Implementation-Vendor-Id: com.futaim.beam
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hotel-webapp
+Created-By: Maven Integration for Eclipse
+

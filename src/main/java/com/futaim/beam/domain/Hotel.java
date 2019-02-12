@@ -16,6 +16,9 @@ public class Hotel implements Serializable {
      */
     private static final long serialVersionUID = -7717964691899826418L;
 
+    /**
+     * 
+     */
     @NotNull
     @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
     private Integer id;
